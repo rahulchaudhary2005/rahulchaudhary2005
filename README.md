@@ -1,5 +1,167 @@
 ## Hi there 👋
+    # 🚀 Rahul Kumar Chaudhary
 
+<p align="center">
+AI Engineer • Machine Learning • Deep Learning • Generative AI • LLMs • NLP • Full-Stack Developer
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=32&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Developer;Generative+AI+Builder;LLM+Applications+Developer;Full+Stack+Engineer" />
+</p>
+
+---
+
+# 🧠 About Me
+
+🎓 BTech CSE (AI & ML) Student  
+
+🤖 Building **AI-powered applications and intelligent systems**
+
+🧠 Focused on **Machine Learning, Deep Learning, and Generative AI**
+
+🔬 Exploring **Agentic AI, Autonomous Agents, and LLM applications**
+
+🌍 Passionate about solving **real-world problems using AI + Full-Stack systems**
+
+---
+
+# 🎯 Current Focus
+
+- 🧠 **Large Language Models (LLMs)**
+- 🤖 **Agentic AI Systems**
+- 🔍 **Natural Language Processing**
+- 📊 **Machine Learning & Deep Learning**
+- 🏗 **Full Stack AI Applications**
+
+---
+
+# ⚡ Tech Stack
+
+## 🧠 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn"/>
+</p>
+
+- Machine Learning  
+- Deep Learning  
+- Natural Language Processing  
+- Generative AI  
+- LLM Applications  
+- Prompt Engineering  
+- AI Agents  
+
+---
+
+## 🤖 GenAI / LLM Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=openai"/>
+</p>
+
+- OpenAI API  
+- LangChain  
+- Vector Databases  
+- Retrieval Augmented Generation (RAG)  
+- Autonomous AI Agents  
+- LLM Fine-Tuning  
+
+---
+
+## 🌐 Full Stack Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb"/>
+</p>
+
+- React.js  
+- Node.js  
+- Express.js  
+- REST API Development  
+- MongoDB  
+- Web Applications  
+
+---
+
+## ⚙️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode"/>
+</p>
+
+- Git & GitHub  
+- Docker  
+- AWS / Cloud  
+- FastAPI  
+- API Development  
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulchaudhary2005&show_icons=true&theme=radical)
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rahulchaudhary2005&theme=radical)
+
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchaudhary2005&layout=compact&theme=radical)
+
+</p>
+
+---
+
+# 🛠 Tech Badges
+
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com)
+
+[![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter)](https://twitter.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-orange)](https://yourportfolio.com)
+
+---
+
+# ⚡ Skills Overview
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,express,mongodb,git,github,tensorflow,pytorch"/>
+</p>
+
+---
+
+# 🎯 Career Vision
+
+My goal is to become a **high-impact AI Engineer** building intelligent systems powered by **Machine Learning, Deep Learning, LLMs, and Agentic AI**, while combining **Full-Stack engineering to deploy scalable real-world AI products**.
+
+---
+
+⭐ If you like my work, feel free to **star my repositories and follow my journey!**
 <!--
 **rahulchaudhary2005/rahulchaudhary2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
