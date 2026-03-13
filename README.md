@@ -54,11 +54,9 @@ AI Engineer • Machine Learning • Deep Learning • Generative AI • LLMs �
 ---
 
 ## 🤖 GenAI / LLM Tools
-
 <p>
 <img src="https://skillicons.dev/icons?i=openai"/>
 </p>
-
 - OpenAI API  
 - LangChain  
 - Vector Databases  
