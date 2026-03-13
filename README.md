@@ -54,18 +54,19 @@ AI Engineer • Machine Learning • Deep Learning • Generative AI • LLMs �
 ---
 
 ## 🤖 GenAI / LLM Tools
-<p>
-<img src="https://skillicons.dev/icons?i=openai"/>
-</p>
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
+![LangChain](https://img.shields.io/badge/LangChain-AI-green?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-System-blue?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/Agentic-AI-purple?style=for-the-badge)
+
 - OpenAI API  
 - LangChain  
 - Vector Databases  
 - Retrieval Augmented Generation (RAG)  
 - Autonomous AI Agents  
-- LLM Fine-Tuning  
-
----
-
+- LLM Fine-Tuning
+- 
 ## 🌐 Full Stack Development
 
 <p>
