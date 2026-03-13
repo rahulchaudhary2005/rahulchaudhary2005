@@ -55,11 +55,10 @@ AI Engineer • Machine Learning • Deep Learning • Generative AI • LLMs �
 
 ## 🤖 GenAI / LLM Tools
 
-<p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="40"/>
-<img src="https://python.langchain.com/img/favicon.ico" width="40"/>
-<img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="40"/>
-</p>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
+![LangChain](https://img.shields.io/badge/LangChain-AI-green?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-System-blue?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/Agentic-AI-purple?style=for-the-badge)
 
 - OpenAI API  
 - LangChain  
