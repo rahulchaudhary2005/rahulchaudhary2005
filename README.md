@@ -110,9 +110,7 @@ AI Engineer • Machine Learning • Deep Learning • Generative AI • LLMs �
 
 <p align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulchaudhary2005&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=rahulchaudhary2005&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=rahulchaudhary2005&theme=dark)
 
 </p>
 
