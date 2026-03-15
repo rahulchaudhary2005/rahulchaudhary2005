@@ -126,9 +126,10 @@ AI Engineer • Machine Learning • Deep Learning • Generative AI • LLMs �
 
 <p align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchaudhary2005&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchaudhary2005\&layout=compact\&bg_color=000000\&title_color=00FFFF\&text_color=FFFFFF\&border_color=00FFFF)
 
 </p>
+
 
 ---
 
