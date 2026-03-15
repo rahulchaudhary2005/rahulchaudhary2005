@@ -109,8 +109,13 @@ AI Engineer • Machine Learning • Deep Learning • Generative AI • LLMs �
 # 🔥 GitHub Streak
 
 <p align="center">
-![GitHub Streak](https://streak-stats.demolab.com?user=rahulchaudhary2005&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulchaudhary2005\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rahulchaudhary2005\&background=000000\&ring=00FFFF\&fire=FF00FF\&currStreakNum=FFFF00\&sideNums=00FF00\&currStreakLabel=FF00FF\&sideLabels=00FFFF\&dates=FFFFFF)
+
 </p>
+
 
 ---
 
