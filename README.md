@@ -102,7 +102,7 @@ AI Engineer • Machine Learning • Deep Learning • Generative AI • LLMs �
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulchaudhary2005\&show_icons=true\&bg_color=000000\&title_color=00FFFF\&text_color=FFFFFF\&icon_color=FF00FF\&border_color=00FFFF)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rahulchaudhary2005\&background=000000\&ring=00FFFF\&fire=FF00FF\&currStreakNum=FFFF00\&sideNums=00FF00\&currStreakLabel=FF00FF\&sideLabels=00FFFF\&dates=FFFFFF)
+
 
 </p>
 
