@@ -110,7 +110,7 @@ AI Engineer • Machine Learning • Deep Learning • Generative AI • LLMs �
 
 <p align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rahulchaudhary2005&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00)
+![GitHub Streak](https://streak-stats.demolab.com?user=rahulchaudhary2005&background=000000&ring=00FF70&fire=00FF50&currStreakLabel=00FF10)
 </p>
 
 ---
