@@ -2,7 +2,7 @@
   
 
 <p align="center">
-<h2>AI Engineer • Machine Learning • Deep Learning • Generative AI • LLMs • NLP • Full-Stack Developer</h2>
+<h3>AI Engineer • Machine Learning • Deep Learning • Generative AI • LLMs • NLP • Full-Stack Developer</h3>
 </p>
 
 <p align="center">
