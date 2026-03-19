@@ -149,7 +149,7 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter)](https://twitter.com)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-orange)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:krrahulchaudhary2005@gmail.com)
 
 ---
 
