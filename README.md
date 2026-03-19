@@ -1,8 +1,8 @@
 # 🚀 Rahul Kumar Chaudhary
-    # 🚀 Rahul Kumar Chaudhary
+  
 
 <p align="center">
-AI Engineer • Machine Learning • Deep Learning • Generative AI • LLMs • NLP • Full-Stack Developer
+<h2>AI Engineer • Machine Learning • Deep Learning • Generative AI • LLMs • NLP • Full-Stack Developer</h2>
 </p>
 
 <p align="center">
