@@ -109,14 +109,7 @@
 </p>
 </p>
 
-# 💻 Most Used Languages
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchaudhary2005&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    height="180em"
-  />
-</p>
 
 
 ---
@@ -138,19 +131,17 @@
 
 [![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulchaudhary2005&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-# 💻 Most Used Languages
-
-
+# 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchaudhary2005&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    height="180em"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulchaudhary2005&show_icons=true&theme=radical&rank_icon=github&hide_border=true" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchaudhary2005&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rahulchaudhary2005&theme=radical&hide_border=true" />
+</p>
 
 # 🛠 Tech Badges
 
