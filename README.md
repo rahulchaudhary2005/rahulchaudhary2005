@@ -117,37 +117,24 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=rahulchaudhary2005\&background=000000\&ring=00FFFF\&fire=FF00FF\&currStreakNum=FFFF00\&sideNums=00FF00\&currStreakLabel=FF00FF\&sideLabels=00FFFF\&dates=FFFFFF)
-
+  <img 
+    src="https://streak-stats.demolab.com?user=rahulchaudhary2005&background=000000&ring=00FFFF&fire=FF00FF&currStreakNum=FFFF00&sideNums=00FF00&currStreakLabel=FF00FF&sideLabels=00FFFF&dates=FFFFFF&hide_border=true" 
+    alt="GitHub Streak"
+  />
 </p>
 
 
 ---
+# 🚀 Rahul's most used language
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchaudhary2005&layout=compact&theme=radical&hide_border=true&langs_count=20&exclude_repo=repo-name"/>
 
 # 📈 Contribution Graph
 
 [![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulchaudhary2005&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-📊 GitHub Stats
 
-# 🚀 Rahul's GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulchaudhary2005&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchaudhary2005&layout=compact&langs_count=10&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rahulchaudhary2005&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulchaudhary2005&theme=react-dark&hide_border=true"/>
-</p>
 
 # 🛠 Tech Badges
 
