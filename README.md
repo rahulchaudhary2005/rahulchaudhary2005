@@ -125,8 +125,14 @@
 
 
 ---
-# 🚀 Rahul's most used language
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchaudhary2005&layout=compact&theme=radical&hide_border=true&langs_count=20&exclude_repo=repo-name"/>
+
+# 💻 Most Used Languages
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchaudhary2005&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=445"
+  />
+</p>
 
 # 📈 Contribution Graph
 
