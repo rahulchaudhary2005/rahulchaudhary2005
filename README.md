@@ -99,11 +99,23 @@
 # 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulchaudhary2005&show_icons=true&theme=radical&rank_icon=github&hide_border=true" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchaudhary2005&layout=compact&theme=radical&hide_border=true" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulchaudhary2005\&show_icons=true\&bg_color=000000\&title_color=00FFFF\&text_color=FFFFFF\&icon_color=FF00FF\&border_color=00FFFF)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rahulchaudhary2005&theme=radical&hide_border=true" />
+</p>
+</p>
 
+# 💻 Most Used Languages
 
-
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchaudhary2005&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+    height="180em"
+  />
 </p>
 
 
@@ -122,12 +134,19 @@
 
 ---
 
+# 📈 Contribution Graph
+
+[![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulchaudhary2005&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 # 💻 Most Used Languages
 
+
+
 <p align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchaudhary2005\&layout=compact\&bg_color=000000\&title_color=00FFFF\&text_color=FFFFFF\&border_color=00FFFF)
-
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchaudhary2005&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+    height="180em"
+  />
 </p>
 
 
