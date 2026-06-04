@@ -126,6 +126,7 @@
 </p>
 
 ---
+https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchaudhary2005
 
 ## 🏆 GitHub Trophies
 
