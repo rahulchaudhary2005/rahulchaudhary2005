@@ -110,7 +110,67 @@
 </p>
 
 
+## 📊 GitHub Stats
 
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulchaudhary2005&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchaudhary2005&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=rahulchaudhary2005&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rahulchaudhary2005&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 Enterprise AI Security Intelligence Platform
+- Secure RAG
+- ChromaDB
+- Ollama
+- Vector Search
+- AES Encryption
+- JWT Authentication
+
+### 🏥 AI Symptom Analyzer
+- Disease Prediction
+- Doctor Recommendation
+- Diet Recommendation
+
+### 🚕 AI Ride Booking System
+- Real-time Matching
+- Route Optimization
+- AI Pricing
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: Your LinkedIn
+- Portfolio: Your Portfolio
+- Email: your-email@example.com
+If the cards still don't show
+
+Send me:
+
+Your exact GitHub profile URL
+Screenshot of the README preview
+Screenshot of the rendered GitHub profile
+
+and I'll identify the exact issue in under a minute.
 
 ---
 
